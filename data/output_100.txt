@@ -1,0 +1,32 @@
+nodeNumber:100
+p:10
+bound:30
+vertex: 7
+ coarsed node:7 8 
+ vertex: 17
+ coarsed node:17 18 
+ vertex: 38
+ coarsed node:38 39 40 41 
+ vertex: 46
+ coarsed node:46 47 50 51 
+ vertex: 52
+ coarsed node:52 53 54 55 56 
+ vertex: 57
+ coarsed node:57 58 
+ vertex: 63
+ coarsed node:63 64 
+ vertex: 65
+ coarsed node:65 66 
+ vertex: 70
+ coarsed node:22 23 24 25 26 70 71 
+ vertex: 72
+ coarsed node:42 43 72 73 
+ vertex: 74
+ coarsed node:74 75 
+ vertex: 76
+ coarsed node:76 77 78 
+ vertex: 79
+ coarsed node:1 2 3 4 5 6 9 10 11 12 13 14 15 16 19 20 21 27 28 29 30 31 32 33 34 35 36 37 44 45 48 49 59 60 61 62 67 68 69 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 100 
+ vertex: 97
+ coarsed node:97 98 99 
+ 9.26748 s
